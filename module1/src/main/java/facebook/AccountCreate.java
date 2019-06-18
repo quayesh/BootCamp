@@ -34,4 +34,9 @@ public class AccountCreate extends CommonAPI {
     }
 
 
+    public void setFirstName(String abm) {
+    }
+
+    public void setLastName(String qua) {
+    }
 }
