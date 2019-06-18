@@ -12,6 +12,7 @@
         <module>Generic</module>
         <module>module1</module>
         <module>FaceBook</module>
+        <module>cnn.com</module>
     </modules>
 
 
